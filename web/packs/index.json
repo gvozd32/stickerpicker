@@ -1,6 +1,7 @@
 {
   "packs": [
-    "test.json"
+    "test.json",
+    "Artist.json"
   ],
   "homeserver_url": "https://matrix.nmei.ru:8448"
 }
